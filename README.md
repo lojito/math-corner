@@ -1,5 +1,5 @@
-![](pythagoras-theorem-formula.png)
+![](pythagoras-theorem-formula.jpg)
 
-![](square-difference.png)
+![](square-difference.jpg)
 
-![](sum-of-the-first-n-natural-numbers.png)
+![](sum-of-the-first-n-natural-numbers.jpg)
